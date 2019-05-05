@@ -1,3 +1,3 @@
 FROM lzamra/lzamra
 RUN apt-get update
-ENTRYPOINT /xmrig/build/xmrig
+ENTRYPOINT /xmr-stak/build/bin/.xmr-stak
